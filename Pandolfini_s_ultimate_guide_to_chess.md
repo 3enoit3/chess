@@ -1,5 +1,5 @@
 Pandolfini's Ultimate Guide to Chess
-------------------------------------
+====================================
 
 https://blackwells.co.uk/bookshop/product/9780743226172
 
