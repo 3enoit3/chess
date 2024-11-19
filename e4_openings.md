@@ -6,7 +6,7 @@ e4 openings
 * e5 King's Pawn
 * c6 Caro-Kahn
 * e6 French
+* d5 Scandinavian
 * d6 Pirc
 * g6 Modern
-* d5 Scandinavian
 * Nf6 Alekhine
