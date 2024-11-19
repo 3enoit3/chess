@@ -36,7 +36,7 @@ Main lines:
   * GothamChess: https://www.youtube.com/watch?v=GTJmUt8oyH8&t=3250s (Two knights)
   * GothamChess: https://www.youtube.com/watch?v=GTJmUt8oyH8&t=4939s (Advance)
   * GothamChess: https://www.youtube.com/watch?v=GTJmUt8oyH8&t=5382s ("Trick line")
-  * Joachim: https://www.youtube.com/watch?v=cB-eDj1C73k
+  * Joachim: https://www.youtube.com/watch?v=cB-eDj1C73k (Advance)
 * e6 French
 * d5 Scandinavian
   * GothamChess: https://www.youtube.com/watch?v=GTJmUt8oyH8&t=53s (Nf3)
