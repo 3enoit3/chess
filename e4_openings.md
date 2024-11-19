@@ -23,6 +23,11 @@ Main lines:
   * GothamChess: https://www.youtube.com/watch?v=8aIU7-ClKGs&t=2305s (Alapin c3)
   * GothamChess: https://www.youtube.com/watch?v=GTJmUt8oyH8&t=1675s (Closed)
   * Joachim: https://www.youtube.com/watch?v=iisOqY_Ty4o&t=3426s
+  * Joachim: https://www.youtube.com/watch?v=lP35JjskzMg&t=0s
+  * Joachim: https://www.youtube.com/watch?v=lP35JjskzMg&t=2576s
+  * Joachim: https://www.youtube.com/watch?v=lP35JjskzMg&t=5065s
+  * Joachim: https://www.youtube.com/watch?v=iisOqY_Ty4o&t=0s
+  * Joachim: https://www.youtube.com/watch?v=iisOqY_Ty4o&t=1246s
 * c6 Caro-Kahn
   * GothamChess: https://www.youtube.com/watch?v=8aIU7-ClKGs&t=3545s (Hillbilly)
   * GothamChess: https://www.youtube.com/watch?v=8aIU7-ClKGs&t=4015s (f4)
@@ -31,11 +36,6 @@ Main lines:
   * GothamChess: https://www.youtube.com/watch?v=GTJmUt8oyH8&t=3250s (Two knights)
   * GothamChess: https://www.youtube.com/watch?v=GTJmUt8oyH8&t=4939s (Advance)
   * GothamChess: https://www.youtube.com/watch?v=GTJmUt8oyH8&t=5382s ("Trick line")
-  * Joachim: https://www.youtube.com/watch?v=lP35JjskzMg&t=0s
-  * Joachim: https://www.youtube.com/watch?v=lP35JjskzMg&t=2576s
-  * Joachim: https://www.youtube.com/watch?v=lP35JjskzMg&t=5065s
-  * Joachim: https://www.youtube.com/watch?v=iisOqY_Ty4o&t=0s
-  * Joachim: https://www.youtube.com/watch?v=iisOqY_Ty4o&t=1246s
 * e6 French
 * d5 Scandinavian
   * GothamChess: https://www.youtube.com/watch?v=GTJmUt8oyH8&t=53s (Nf3)
