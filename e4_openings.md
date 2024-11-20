@@ -24,10 +24,14 @@ e4 openings
 
 Main answers:
 |Rank|*6 (good)|*5 (strong)|
-|----|-|-|
+|-|-|-|
 |C (strong)|c6 Caro-Kann|c5 Sicilian|
 |D (good)|d6 Pirc|d5 Scandinavian|
 |E (strong)|e6 French|e5 King's Pawn|
+
+## Plans
+|Answer|King security|Pawn structure|Space|Development|Material|Attack|
+|-|-|-|-|-|-|-|
 
 ## Videos
 * c5 Sicilian
