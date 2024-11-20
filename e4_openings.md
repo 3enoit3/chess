@@ -25,9 +25,9 @@ e4 openings
 Main answers:
 |Rank|*6 (good)|*5 (strong)|
 |----|-|-|
-|C|c6 Caro-Kann|c5 Sicilian|
-|D|d6 Pirc|d5 Scandinavian|
-|E|e6 French|e5 King's Pawn|
+|C (strong)|c6 Caro-Kann|c5 Sicilian|
+|D (good)|d6 Pirc|d5 Scandinavian|
+|E (strong)|e6 French|e5 King's Pawn|
 
 ## Videos
 * c5 Sicilian
