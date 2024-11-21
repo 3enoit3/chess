@@ -30,8 +30,16 @@ Main answers:
 |E (strong)|e6 French|e5 King's Pawn|
 
 ## Plans
-|Answer|King security|Pawn structure|Space|Development|Material|Attack|
+|Reply|King security|Pawn structure|Space|Development|Material|Attack|
 |-|-|-|-|-|-|-|
+
+## Replies
+* c5 Sicilian: ~Scotch
+* e5 King's Pawn: Scotch
+* c6 Caro-Kann: 2 pawns, Advance or Exchange
+* e6 French: 2 pawns, Advance or Exchange
+* d5 Scandinavian:
+* d6 Pirc
 
 ## Videos
 * c5 Sicilian
