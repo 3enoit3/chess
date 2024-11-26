@@ -8,7 +8,7 @@ Checklist
   
 Would like to include: candidate moves
 
-On threat:
+On attack:
 1. ignore
 2. escape
 3. defend
