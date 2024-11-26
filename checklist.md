@@ -3,8 +3,8 @@ Checklist
 # My checklist
 1. What is my opponent trying to do **and** how can I reply to it?
 2. Is there a forced move? mainly **chess and captures** (threats and pawn ruptures look more positional)
-3. Positional: weakness, improve least well positioned
-4. Plan/prophylaxy
+3. Improve position: attack weaknesses, improve least well positioned
+4. Review the strategic plan (and prophylaxy?)
 
 # Resources
 Joachim Mouhamad
