@@ -8,6 +8,12 @@ Checklist
   
 Would like to include: candidate moves
 
+On threat:
+1. ignore
+2. escape
+3. defend
+4. attack (there or somewhere else)
+
 # Resources
 Joachim Mouhamad
   1. L'interet du dernier coup de mon adversaire
