@@ -1,7 +1,7 @@
 Checklist
 =========
 # My checklist
-1. What is my opponent trying to do **and** how can I reply to it?
+1. What is my opponent trying to do **and** how would I reply to it?
 2. Is there a forced move? **chess and captures** (threats and pawn ruptures look more positional)
 3. Improve the position: attack weaknesses, improve least well positioned
    * Review the strategic plan (and prophylaxy?)
