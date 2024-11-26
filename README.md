@@ -1,6 +1,11 @@
 Chess
 =====
 
+# My notes
+* [checklist](https://github.com/3enoit3/chess/blob/main/checklist.md)
+* [e4 openings](https://github.com/3enoit3/chess/blob/main/e4_openings.md)
+* [d4 openings](https://github.com/3enoit3/chess/blob/main/d4_openings.md)
+
 # Interesting links
 * https://jackpuccinichess.com/daily-chess-challenge/
 * https://lichess.org/@/jk_182/blog/king-and-pawn-endgame-basics/mgxE5Ps9
