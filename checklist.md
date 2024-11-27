@@ -17,7 +17,7 @@ Would like to include: candidate moves
 
 ## State of mind
 * Play **solid**: accumulated small advantages > possible opponent blunder
-* Play **offensif**: fast attack > slow defense/prophylaxy
+* Don't waste **time**: fast attack > slow defense/prophylaxy
 * Be vigilant with **pawn pressure**
   * non contested center
   * on a blocked bishop
