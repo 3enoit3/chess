@@ -16,11 +16,11 @@ Would like to include: candidate moves
 4. attack (there or somewhere else)
 
 ## State of mind
-* Play **solid**: accumulated small advantages > possible opponent blunder
 * Don't waste **time**: fast attack > slow defense/prophylaxy
+* Play **solid**: accumulated small advantages > possible opponent blunder
 * Be vigilant with **pawn pressure**
-  * non contested center
-  * on a blocked bishop
+  * on the center: not contested
+  * on the sides: on a blocked piece (bishop)
 * Follow the **rules**
   * on outposts: knight > bishop
 
