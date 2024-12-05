@@ -18,7 +18,7 @@ Would like to include: candidate moves
 ## State of mind
 * Don't waste **time**: fast attack > slow defense/prophylaxy
 * Play **solid**: accumulated small advantages > possible opponent blunder
-* Be vigilant with **pawn pressure**
+* Know the **pawn structure** you play for, and be vigilant with pressure
   * on the center: not contested
   * on the sides: on a blocked piece (bishop)
 * Follow the **rules**
@@ -28,7 +28,7 @@ Would like to include: candidate moves
 * Use:
   * **majority** to **pass** pawns
   * **minority** to **destroy** opponent structure
-* Avoid small islands and keep their number small (one island = one weakness)
+* Avoid small islands, and keep their number small (one island = one weakness)
   * playing with:
     * keep mobile (PP) to guard or push to destroy opponent structure
     * use outposts for knights and side files for rooks -> **stay in middle-game**
