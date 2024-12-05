@@ -23,6 +23,18 @@ Would like to include: candidate moves
   * on the sides: on a blocked piece (bishop)
 * Follow the **rules**
   * on outposts: knight > bishop
+ 
+### Pawns
+* Use:
+  * **majority** to **pass** pawns
+  * **minority** to **destroy** opponent structure
+* Avoid small islands and keep their number small (one island = one weakness)
+  * playing with:
+    * keep them mobile to guard (PP) or push to destroy opponent structure
+    * use outposts for knights and side files for rooks -> stay in **middle-game**
+  * playing against:
+    * attack the base, blockade or weaken the structure (split into smaller islands or force into chains)
+    * trade pieces -> enter **end-game**
 
 # Resources
 Joachim Mouhamad
