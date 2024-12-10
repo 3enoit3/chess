@@ -3,8 +3,11 @@ Chess
 
 # My notes
 * [checklist](https://github.com/3enoit3/chess/blob/main/checklist.md)
-* [e4 openings](https://github.com/3enoit3/chess/blob/main/e4_openings.md)
-* [d4 openings](https://github.com/3enoit3/chess/blob/main/d4_openings.md)
+  * [pawns](https://github.com/3enoit3/chess/blob/main/pawns.md)
+  * [pieces](https://github.com/3enoit3/chess/blob/main/pieces.md)
+* opening
+  * [e4 openings](https://github.com/3enoit3/chess/blob/main/e4_openings.md)
+  * [d4 openings](https://github.com/3enoit3/chess/blob/main/d4_openings.md)
 
 # Interesting links
 * https://jackpuccinichess.com/daily-chess-challenge/
