@@ -3,7 +3,7 @@ Checklist
 # My checklist
 ## On each move
 1. What is my opponent trying to do **and** how would I reply to it?
-2. Is there a forced move? **chess and captures** (threats and pawn ruptures look more positional)
+2. Is there a forced move? **checks and captures** (threats and pawn ruptures look more positional)
 3. Improve the position: attack weaknesses, improve worst piece...
    * Review the strategic plan
   
@@ -37,8 +37,16 @@ Would like to include: candidate moves
     * trade pieces -> **enter end-game**
 
 # Resources
-Joachim Mouhamad
+## Joachim Mouhamad
   1. L'interet du dernier coup de mon adversaire
   2. Calcul des lignes forcees (scan tactique): _echecs, prises, menaces, rupture de pions_
   3. Un coup positionel (faiblesses, ma piece moins bien placee)
   4. Que veut faire mon adversaire plus globalement: _prophylaxy_
+
+## Yevhenii Yellisieiev - Journey to Grandmaster
+  1. What is the respective plam or idea for your opponent
+  2. What is your general plan/idea that you want to implement in this game
+
+-> Find a move which can stop your opponent's plan and develop yours
+
+Active opportunities for any side: checks, captures, threats and active moves
