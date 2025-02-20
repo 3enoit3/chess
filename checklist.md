@@ -8,6 +8,7 @@ _The "fist" of chess_
 3. Can I **force** a move? any check, capture or kick
 4. Can I **exploit** a weakness? any funny alignment or unprotected piece
 5. Can I **improve** my pieces?
+
 -> Collect moves and choose the one serving multiple purposes
 
 ### Old
