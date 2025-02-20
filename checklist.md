@@ -2,6 +2,15 @@ Checklist
 =========
 # My checklist
 ## On each move
+_The fist of chess_
+1. Can I **ignore** the last move?
+2. Can I **prevent** an invasion? any entering square
+3. Can I **force** a move? any check, capture or kick
+4. Can I **exploit** a weakness? any funny alignment or unprotected piece
+5. Can I **improve** my pieces?
+-> Collect moves and choose the one serving multiple purposes
+
+### Old
 1. What is my opponent trying to do **and** how would I reply to it?
 2. Is there a forced move? **checks and captures** (threats and pawn ruptures look more positional)
 3. Improve the position: attack weaknesses, improve worst piece...
