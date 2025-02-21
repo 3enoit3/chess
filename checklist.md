@@ -3,11 +3,11 @@ Checklist
 # My checklist
 ## On each move
 _The "fist" of chess_
-1. Can I **ignore** the last move?
+1. Can I **ignore** the last move? any threat
 2. Can I **force** a move? any check, capture or kick
 3. Can I **exploit** a weakness? any funny alignment or unprotected piece
-4. Can I **secure** from an invasion? any entering square
-5. Can I **improve** my pieces?
+4. Can I **improve** my pieces? any underworking piece
+5. Can I **secure** from an invasion? any entering square
 
 -> Collect moves and choose the one serving multiple purposes
 
