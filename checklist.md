@@ -4,9 +4,9 @@ Checklist
 ## On each move
 _The "fist" of chess_
 1. Can I **ignore** the last move?
-2. Can I **prevent** an invasion? any entering square
-3. Can I **force** a move? any check, capture or kick
-4. Can I **exploit** a weakness? any funny alignment or unprotected piece
+2. Can I **force** a move? any check, capture or kick
+3. Can I **exploit** a weakness? any funny alignment or unprotected piece
+4. Can I **secure** from an invasion? any entering square
 5. Can I **improve** my pieces?
 
 -> Collect moves and choose the one serving multiple purposes
