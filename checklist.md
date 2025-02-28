@@ -2,6 +2,19 @@ Checklist
 =========
 # My checklist
 ## On each move
+1. Can I ignore the last move? _dodge_
+    * if no: any escape, defense or attack of equivalent/bigger value 
+2. Is there a tactical win? _jab_
+    * a forced move? any check, capture or kick
+    * a weakness? any funny alignment, unprotected piece or bad pawn
+3. How can I get stronger than my opponent? _delta_
+    * better pieces? from light to heavy: is it strong? if not, where can it be stronger or can it be traded?
+    * better pawn structure?
+
+Would like to include: plan
+
+### Old
+#### v2
 _The "fist" of chess_
 1. Can I **ignore** the last move? any threat
 2. Can I **force** a move? any check, capture or kick
@@ -10,8 +23,7 @@ _The "fist" of chess_
 5. Can I **secure** from an invasion? any entering square
 
 -> Collect moves and choose the one serving multiple purposes
-
-### Old
+#### v1
 1. What is my opponent trying to do **and** how would I reply to it?
 2. Is there a forced move? **checks and captures** (threats and pawn ruptures look more positional)
 3. Improve the position: attack weaknesses, improve worst piece...
