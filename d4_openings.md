@@ -15,4 +15,12 @@ d4 openings
 * 
 
 ## Videos
-* 
+*
+
+## Indian
+* N first, to delay decision between Indian and Nimzo
+* if London,
+  * attack the isolated pawn d4 with c5
+  * then 2 options:
+    * get Q out, for 2 plans: Qb6 to attack d4 and b2, or Qa4 to attack K and rank 5
+    * prepare e5: d6 to block invasion, secure king with fianchetto + support with Nd7, Re8  
