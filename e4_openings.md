@@ -69,3 +69,16 @@ Main answers:
   * Joachim: https://www.youtube.com/watch?v=ip7xxs93WCI&t=2396s
 * d6 Pirc
   * GothamChess: https://www.youtube.com/watch?v=8aIU7-ClKGs&t=1168s
+ 
+## Plans
+* Caro-Kann
+  * Advance
+    * https://www.youtube.com/watch?v=D8PJ1t5UvEM 
+    * Normal development: Ns on their normal squares, light B in g4 (and trade N if needed) or f5 if not possible, dark B in e2, castle <br/> <img width="621" height="622" alt="image" src="https://github.com/user-attachments/assets/30bfa19b-c2e5-4874-8bf5-9abcacc97ba3" />
+    * Then<br/><img width="621" height="621" alt="image" src="https://github.com/user-attachments/assets/be657f93-25c2-4d5c-83ea-25858b959995" />    
+    * No white pieces on the left side for longer than one move
+    * Minority attack on the right side
+
+  * Exchange
+  * Classic
+    * Tartakower
